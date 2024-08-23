@@ -98,4 +98,4 @@ Makefile
 # Other
 .DS_Store
 *.eps
-.csv
+*.csv
