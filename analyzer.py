@@ -105,6 +105,6 @@ def winPercent(player_name, stats_csv='stats.csv'):
     print(f"Win percentage for {player}: {win_percent:.2f}%")
 
 
-update_csv('test2.csv', 'stats.csv')
+update_csv('player-999002QU-battles-2024-08-26-18-08-47.csv', 'stats.csv')
 
 winPercent(player)
